@@ -1,4 +1,4 @@
-Cognito User Manager
+# Cognito User Manager
 
 1. Setup the UserPool 
 2. When setup the client then do not generate the "App client secret"
